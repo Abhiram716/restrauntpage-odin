@@ -1,6 +1,6 @@
-import addHeader from "./pages/pageload";
-import displayHome from "./pages/home";
-import displayMenu from "./pages/menu";
+import addHeader from "./pages/pageload"
+import displayHome from "./pages/home"
+import displayMenu from "./pages/menu"
 import displayAboutUs from "./pages/about";
 
 addHeader();

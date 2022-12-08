@@ -36,5 +36,4 @@ export default function addHeader() {
   header.appendChild(titleContaier);
   header.appendChild(navContaienr);
   headerContainer.appendChild(header);
-  console.log(headerContainer);
 }
