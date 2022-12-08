@@ -12,7 +12,7 @@ function displayHome() {
   homeDiv.appendChild(intro);
   homeDiv.appendChild(introSlogan);
 
-  console.log(homeDiv.innerHTML);
+  
   const content = document.getElementById("content");
   content.appendChild(homeDiv);
 }
