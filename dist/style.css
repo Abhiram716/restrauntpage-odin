@@ -5,6 +5,7 @@ body {
 h1 {
   margin-bottom: 0;
 }
+
 #header-content {
   background: #eee;
   color: #1d8a0d;
@@ -34,9 +35,11 @@ nav li:hover {
 .subtitle {
   margin: 0;
 }
+
 .intro-container {
   margin-top: 100px;
 }
+
 .intro {
   text-align: center;
   color: #267915;
@@ -58,6 +61,7 @@ h3 {
   padding: 10px 0;
   margin: 20px auto;
 }
+
 .about-container {
   display: flex;
   flex-direction: column;
